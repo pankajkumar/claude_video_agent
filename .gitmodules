@@ -1,0 +1,3 @@
+[submodule "models/rvm"]
+	path = models/rvm
+	url = https://github.com/PeterL1n/RobustVideoMatting.git
