@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ffprobe *)",
+      "Bash(ffmpeg *)",
+      "Bash(python3 *)",
+      "Bash(/Users/falguneesharma/pankaj/projects/claude_video_agent/.venv/bin/python3 *)",
+      "Bash(source .venv/bin/activate*)",
+      "Bash(source /Users/falguneesharma/pankaj/projects/claude_video_agent/.venv/bin/activate*)",
+      "Bash(sips *)",
+      "Bash(file *)",
+      "Bash(identify *)",
+      "Bash(ls *)",
+      "Bash(mkdir -p *)",
+      "Bash(cp *)",
+      "Bash(mv *)",
+      "Bash(md5 *)",
+      "Bash(md5sum *)",
+      "Bash(cat *)",
+      "Bash(sed *)",
+      "Bash(grep *)",
+      "Bash(echo *)",
+      "Bash(rm /private/tmp/claude-501/*)",
+      "Read(/Users/falguneesharma/pankaj/**)",
+      "Read(/private/tmp/claude-501/**)",
+      "mcp__computer-use__screenshot"
+    ]
+  }
+}

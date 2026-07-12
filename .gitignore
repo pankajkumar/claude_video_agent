@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.agent_work/
+models/rvm/checkpoints/*.pth
+*.mp4
+*.mov
